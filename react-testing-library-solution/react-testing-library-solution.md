@@ -100,3 +100,8 @@ export default defineConfig({
 }
 
 ```
+
+
+
+### Credits
+Source: stsiarzhanau, Dec 14, 2023, link: https://stackoverflow.com/a/77661187/13316519
